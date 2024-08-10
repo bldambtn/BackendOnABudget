@@ -33,6 +33,8 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ![Walkthrough of application, expected functionality](./Assets/walkthrough.gif)
 
+Link to walkthrough: https://drive.google.com/file/d/15fSMNKZ5k8AQAJZ9CJkvCKRBgY5KLT-b/view
+
 ## Credits
 
 ### Research Sources
